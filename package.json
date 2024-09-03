@@ -1,0 +1,6 @@
+{
+  "type": "module",
+  "dependencies": {
+    "pdf-to-img": "^4.1.0"
+  }
+}
